@@ -1,25 +1,25 @@
-# # def prime(num):
-# #     if num <= 1:
-# #         print("Not Prime")
-# #         return False
+# def prime(num):
+#     if num <= 1:
+#         print("Not Prime")
+#         return False
 
-# #     for i in range(2, num):
-# #         if num % i == 0:
-# #             print("Not Prime")
-# #             return False
+#     for i in range(2, num):
+#         if num % i == 0:
+#             print("Not Prime")
+#             return False
 
-# #     print("Prime")
-# #     return True
-
-
-# # n = int(input("Enter a number: "))
-# # prime(n)     # Function call
+#     print("Prime")
+#     return True
 
 
-# def calculator(a, b):
-#     print("Sum", a + b)
+# n = int(input("Enter a number: "))
+# prime(n)     # Function call
 
-# calculator(10, 20)
+
+def calculator(a, b):
+    print("Sum", a + b)
+
+calculator(10, 20)
 
 
 
